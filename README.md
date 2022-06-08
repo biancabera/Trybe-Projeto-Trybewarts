@@ -2,7 +2,7 @@
 
 Acesse o projeto <a href="https://biancabera.github.io/Trybe-Projeto-Trybewarts/">AQUI</a>
 
-Projeto em dupla realizado com minha colega de turma, Lizandra Debussy, onde fizemos um formulário utilizando Javascript, HTML e CSS.
+Projeto em dupla realizado com minha colega de turma Lizandra Debussy, onde fizemos um formulário utilizando Javascript, HTML e CSS.
 
 ![Nota Trybewarts](https://user-images.githubusercontent.com/101866542/172709121-de741b45-41f2-480e-8523-295b72467138.png)
 
